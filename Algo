@@ -1,2 +1,11 @@
-Decide which business to order from
-Decide which type of pizza to order
+1. Decide which business to order from 
+2. Decide which type of pizza to order
+3. Select pizza company to order from
+4. Place order thru pizza hut
+5a. IF paying online for delivery
+    - Make purchase of pizza online
+    - Wait for delivery
+    - Tip the driver
+5b. IF paying online for pickup
+    - Make purchase of pizza online
+    - Allow 30-45 minutes to Pickup pizza from pizza Hut
